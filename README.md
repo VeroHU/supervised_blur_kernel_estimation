@@ -8,3 +8,6 @@ However, our method is based on LEAST SQUARE FIT, which is more accurate than th
 please run "demo_main.m" to see the results.
 
 
+results:
+![image](https://github.com/VeroHU/supervised_blur_kernel_estimation/blob/master/peppers.jpg)
+![image](https://github.com/VeroHU/supervised_blur_kernel_estimation/blob/master/kernel.jpg)
