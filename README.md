@@ -12,5 +12,5 @@ If you have the original image and the blurred image, you can use this code to e
 <br>
 <br>
 results:
-![image](./peppers.jpg "peppers")
-![image](./kernel.jpg "kernel")
+![image](./peppers.png "peppers")
+![image](./kernel.png "kernel")
