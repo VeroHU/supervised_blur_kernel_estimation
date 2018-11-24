@@ -41,7 +41,7 @@ else
 end
 if (display)
     varargout{1} = img_deblurred;
-    figure; imshow([img_orig,img_blurred,img_deblurred],[]) % if you want preview the output
+    figure; imshow([img_orig,img_blurred,img_deblurred],[],'InitialMagnification','fit') % if you want preview the output
     title ( 'original image, blurred image, deblurred image');
 end
 
