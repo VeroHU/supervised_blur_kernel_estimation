@@ -9,6 +9,6 @@ img_blurred = imfilter(img_orig,t);
 
 [k] = cal_kernel(img_orig,img_blurred,[7,7],1);
 
-figure; imshow([t,k],[])
+figure; imshow([t,k],[],'InitialMagnification','fit')
 title ( 'estimated kernel,truth kernel');
 set(gcf,'unit','centimeters','position',[10 5 20 10]);
